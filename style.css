@@ -1,0 +1,41 @@
+#terminal {
+	background-color: #ebebeb;
+	width:400px;
+	margin:75px auto 0 auto;
+	padding:50px 0;
+	border-radius:15px;
+}
+.cadre {
+	width:100% !important;
+	background-color:#2d2d2d;
+	color:#fff;
+	margin:0 60px 30px 60px;
+	border-radius:10px;
+}
+#code {
+	letter-spacing: 15px;
+	font-size:20pt;
+	padding-bottom:10px;
+	height:55px;
+}
+#lives {
+	text-align:right;
+	margin-top:10px;
+	padding-right:20px;
+}
+#yell {
+	width:400px;
+	margin:20px auto 0 auto;
+	text-align:center;
+	background-color:#333;
+	border-radius:35px;
+	color:#fff;
+	display:none;
+}
+.display {
+	display:block !important;
+}
+.animate__animated.animate__fadeOut {
+	--animate-duration: 1s;
+	padding:10px;
+}
